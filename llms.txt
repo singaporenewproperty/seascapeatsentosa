@@ -1,0 +1,9 @@
+# Seascape at Sentosa
+
+> Seascape at Sentosa — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/seascapeatsentosa/
+
+## Pages
+
+- [Seascape at Sentosa](https://singaporenewproperty.github.io/seascapeatsentosa/): Seascape at Sentosa property information.
